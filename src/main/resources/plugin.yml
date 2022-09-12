@@ -1,0 +1,11 @@
+name: Pingbar
+version: '${version}'
+main: com.babiesjulius.pingbar.Main
+api-version: 1.19
+prefix: PingBar
+authors: [ JuliusBabies ]
+description: This plugin adds some useful information to the tab list
+
+commands:
+  pingbar-config:
+    description: Changes the behavior of PingBar
